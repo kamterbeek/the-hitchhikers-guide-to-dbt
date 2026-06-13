@@ -1,6 +1,3 @@
----
----
-
 ## dbt grants
 
 https://docs.getdbt.com/reference/resource-configs/grants
